@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2025-09-29T12:25:07.443Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-29T08:05:00.033Z
+---
+
 # eCozy Identity Guidelines
 
 This repository contains Markdown documentation files for Wiki.js that define the eCozy brand identity guidelines.
