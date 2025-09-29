@@ -2,8 +2,10 @@
 title: Elasticsearch
 description: Search Engine Module
 published: true
-date: 2019-09-15T02:44:34.625Z
+date: 2025-09-29T13:42:22.447Z
 tags: 
+editor: markdown
+dateCreated: 2025-09-29T13:42:20.977Z
 ---
 
 Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases.

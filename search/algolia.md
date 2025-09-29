@@ -2,8 +2,10 @@
 title: Algolia
 description: Search Engine Module
 published: true
-date: 2019-09-15T02:43:22.304Z
+date: 2025-09-29T13:42:13.847Z
 tags: 
+editor: markdown
+dateCreated: 2025-09-29T13:42:12.378Z
 ---
 
 Algolia is a powerful search-as-a-service solution, made easy to use with API clients, UI libraries, and pre-built integrations.

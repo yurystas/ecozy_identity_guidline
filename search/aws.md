@@ -2,8 +2,10 @@
 title: AWS CloudSearch
 description: Search Engine Module
 published: true
-date: 2019-09-15T02:43:38.607Z
+date: 2025-09-29T13:42:16.003Z
 tags: 
+editor: markdown
+dateCreated: 2025-09-29T13:42:14.500Z
 ---
 
 Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective to set up, manage, and scale a search solution for your website or application.

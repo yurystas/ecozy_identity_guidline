@@ -2,9 +2,10 @@
 title: DB - PostgreSQL
 description: Search Engine Module
 published: true
-date: 2020-06-07T17:15:39.358Z
+date: 2025-09-29T13:42:24.553Z
 tags: 
 editor: markdown
+dateCreated: 2025-09-29T13:42:23.097Z
 ---
 
 This engine makes use of the advanced capabilities of PostgreSQL to provide a "good enough" search solution.

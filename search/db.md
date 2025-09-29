@@ -2,8 +2,10 @@
 title: DB - Basic
 description: Search Engine Module
 published: true
-date: 2019-09-15T02:44:15.478Z
+date: 2025-09-29T13:42:20.331Z
 tags: 
+editor: markdown
+dateCreated: 2025-09-29T13:42:18.800Z
 ---
 
 This is the default search engine for Wiki.js and provides basic search capabilities out-of-the-box.

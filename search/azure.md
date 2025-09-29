@@ -2,8 +2,10 @@
 title: Azure Search
 description: Search Engine Module
 published: true
-date: 2019-09-15T02:43:58.623Z
+date: 2025-09-29T13:42:18.102Z
 tags: 
+editor: markdown
+dateCreated: 2025-09-29T13:42:16.647Z
 ---
 
 Azure Search is an AI-Powered cloud search service for web and mobile app development.
