@@ -16,7 +16,7 @@ Welcome to the eCozy Identity Guidelines documentation. This comprehensive guide
 
 ## 📚 Documentation Sections
 
-### 🎯 [Introduction](/introduction)
+### 🎯 [Introduction](/introduction/introduction)
 Overview of the eCozy identity guidelines and purpose
 
 ### 🏢 [Brand Policies](/brand-policies)
