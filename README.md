@@ -22,25 +22,21 @@ Documentation is organized into directories for easy Wiki.js integration. Docume
 
 
 
-### Directory Structure### 📖 [introduction/](introduction/)
+### Directory Structure
 
+### 📖 [Introduction](introduction/introduction.md)
 Overview and introduction to eCozy identity guidelines
 
-### 📖 [introduction/](introduction/)
+### 🏢 [Brand Policies](brand-policies/brand-policies.md)
+Mission, vision, and core values that drive eCozy — consolidated Brand Policies page.
 
-Overview and introduction to eCozy identity guidelines### 🏢 [brand-policies/](brand-policies/)
-
-Mission, vision, and core values - Contains: `2_Brand_Policies.md`, `2.1_Mission.md`, `2.2_Vision.md`, `2.3_Values.md`
-
-### 🏢 [brand-policies/](brand-policies/)
-
-Mission, vision, and core values  ### 💻 [development-policies/](development-policies/)
-
-*Files: Brand Policies, Mission, Vision, Values*Technical standards for all eCozy system components:
+### 💻 [Development Policies](development-policies/)
+Technical standards for all eCozy system components:
 
 - Open Architecture & CI/CD
 
-### 💻 [development-policies/](development-policies/)- Thermostat & Climate Sensor Firmware
+### 💻 [development-policies/](development-policies/)
+ - Thermostat & Climate Sensor Firmware
 
 Technical standards for all eCozy system components:- Central Unit Embedded Software
 
