@@ -1,4 +1,4 @@
-# 3.3 Thermostat Firmware
+# Thermostat Firmware
 
 1. ### Introduction {#introduction-1}
 

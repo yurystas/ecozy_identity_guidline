@@ -1,4 +1,4 @@
-# 3.7 Database
+# Database
 
 1. ### Database Structure {#database-structure}
 

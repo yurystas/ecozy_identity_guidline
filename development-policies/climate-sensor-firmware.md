@@ -1,4 +1,4 @@
-# 3.5 eCozy Climate Sensor Firmware
+# eCozy Climate Sensor Firmware
 
 1. ### Introduction {#introduction-3}
 

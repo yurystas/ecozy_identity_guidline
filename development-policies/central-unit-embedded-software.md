@@ -1,4 +1,4 @@
-# 3.4 Central Unit Embedded Software
+# Central Unit Embedded Software
 
 1. ### Introduction {#introduction-2}
 

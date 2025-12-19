@@ -1,4 +1,4 @@
-# 3.6 Backend / Server
+# Backend / Server
 
 1. ### Backend Architecture Guide {#backend-architecture-guide}
 

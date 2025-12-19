@@ -1,4 +1,4 @@
-# 3.2 CI/CD (source)
+# CI/CD Pipeline
 
 1. ### Infrastructure {#infrastructure}
 

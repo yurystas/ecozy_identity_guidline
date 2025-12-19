@@ -1,4 +1,4 @@
-# 3.11 Development Workflow
+# Development Workflow
 
 1. ### SCRUM Process {#scrum-process}
 

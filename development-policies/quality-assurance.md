@@ -1,4 +1,4 @@
-# 3.10 Quality Assurance
+# Quality Assurance
 
 1. ### Objectives {#objectives}
 

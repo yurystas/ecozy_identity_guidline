@@ -1,4 +1,4 @@
-# 3.8 Hardware
+# Hardware
 
 1. ### Hardware Approach {#hardware-approach}
 

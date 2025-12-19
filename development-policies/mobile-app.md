@@ -1,4 +1,4 @@
-# 3.9 Mobile App
+# Mobile App
 
 1. ### Project Overview {#project-overview}
 
